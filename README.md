@@ -1,36 +1,22 @@
-<h1 align="center">Hi 👋, I'm S.M. Fardous Alam Nahin</h1>
-<h3 align="center">I'm Currently Learning "Web Development"</h3>
+### Hi there 👋, I'm S.M. Fardous Alam Nahin 
+#### Learner at "freecodecamp.org"
+![Learner at "freecodecamp.org"](https://i.postimg.cc/hjP8R231/1-RBbh-H9-Ed-Qc8i-Semz-Xnmu-EA.webp)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smnahin&label=Profile%20views&color=0e75b6&style=flat" alt="smnahin" /> </p>
+Do not bother to try new things! Do not step away from learning. And lastly, if you feel tired and bored, take a break and return there again.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smnahin" alt="smnahin" /></a> </p>
+Skills: ...loading - JS / HTML / CSS
 
-<p align="left"> <a href="https://twitter.com/fardous_nahin" target="blank"><img src="https://img.shields.io/twitter/follow/fardous_nahin?logo=twitter&style=for-the-badge" alt="fardous_nahin" /></a> </p>
+- 🔭 I’m currently working on an Email Template Design Project 
+- 🌱 I’m currently learning JavaScript 
+- 👯 I’m looking to collaborate on GitHub 
+- ⚡ Fun fact: Bats are the only mammal that can actually fly. 
 
-- 🔭 I’m currently working on **improving my skills**
 
-- 🌱 I’m currently learning **JavaScript**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/smnahin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/smnahin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/fardous-nahin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/nahink5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/smfardousalamnahin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/fardous_nahin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/smnahin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/19732331/nahin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@smfardousalamnahin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discordapp.com/users/1020323419763507330)  
 
-- 👯 I’m looking to collaborate on **GitHub**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smnahin)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/smnahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="smnahin" height="30" width="40" /></a>
-<a href="https://dev.to/smnahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="smnahin" height="30" width="40" /></a>
-<a href="https://twitter.com/fardous_nahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fardous_nahin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/fardous-nahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fardous-nahin" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/19732331/nahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19732331/nahin" height="30" width="40" /></a>
-<a href="https://fb.com/nahink5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nahink5" height="30" width="40" /></a>
-<a href="https://instagram.com/smfardousalamnahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="smfardousalamnahin" height="30" width="40" /></a>
-<a href="https://medium.com/@smfardousalamnahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@smfardousalamnahin" height="30" width="40" /></a>
-<a href="https://discord.gg/1020323419763507330" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1020323419763507330" height="30" width="40" /></a>
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=smnahin&show_icons=true)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+![GitHub streak stats](https://streak-stats.demolab.com/?user=smnahin)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smnahin&show_icons=true&locale=en&layout=compact" alt="smnahin" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smnahin&show_icons=true&locale=en" alt="smnahin" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smnahin&" alt="smnahin" /></p>
